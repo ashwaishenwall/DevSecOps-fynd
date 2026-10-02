@@ -14,6 +14,30 @@ Build a low-cost, Terraform-driven DevSecOps lab on AWS with:
 - Python readiness/log-delivery verifier using the Wazuh Indexer API
 - GitHub Actions checks with Terraform validation, tests, Trivy and Gitleaks
 
+
+## 2. Candidate & Engineering Context
+
+**Prepared by:** Ashwani Kumar
+
+This implementation was built and tested as part of the Fynd Agentic DevSecOps Engineer (SDE-2) practical assignment.
+
+AI tools were used as an engineering accelerator for architecture/design review, troubleshooting, code refinement, documentation, and validation planning. The infrastructure, security controls, deployment workflow, testing, and verification were personally implemented and validated in AWS.
+
+### Current Production Experience
+
+The candidate's most recent production platform is **Spark Assist at S&P Global**, an enterprise Generative AI platform running on Azure.
+
+Relevant responsibilities include:
+
+- Infrastructure automation using Terraform
+- AKS/Kubernetes deployment and operational support
+- CI/CD automation using GitHub Actions
+- Deployment and reliability troubleshooting
+- Cloud platform and security improvements
+- Supporting Spark Assist workloads and related Azure platform components
+
+No confidential production scale, customer information, internal architecture details, credentials, or proprietary metrics are included in this repository.
+
 ## 2. Architecture
 
 ```text
